@@ -1,0 +1,20 @@
+# Flutter/Dart
+.dart_tool/
+.packages
+.flutter-plugins
+.flutter-plugins-dependencies
+.flutter-commit-hash
+build/
+# Android
+android/.gradle
+android/app/debug.keystore
+# Xcode
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/Pods/
+ios/Runner.xcworkspace/
+# Hive boxes
+**/userBox.hive
+# IDE
+.idea/
+.vscode/
